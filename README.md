@@ -7,12 +7,18 @@ Language used was called [Lavish Script](https://www.lavishsoft.com/wiki/index.p
 
 ### Features
 
-Code was a high frequency trading bot
+High frequency scalping bot - market bot
 
-Had a built in NAV system that kept track of profits and expenditures
+##### Included a data tracking file, including:
+```
+Buy and sell prices
+Buy and sell timestamp
+Amount Sold
+Other information
+```
 
-Used an XML file for the setup
+##### A NAV Calculator
 
-Bot did not let itself get manipulated by other traders, it had a 2 week timeout for a profit loss to recover
+##### Profit Loss Protection
 
-Bot had several settings including a minimal margin to trade
+##### Market Gap Enhancement
