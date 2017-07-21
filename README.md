@@ -1,5 +1,6 @@
 # Eve Online Market Bot
 
+## Important! You will NOT be able to make this work without going to the isxeve wiki and fixing the function names and methods, they changed. Also youd need to make the setup XML file for your order list.
 
 Used [Innerspace](http://www.lavishsoft.com/) to dx-inject [Isxeve](https://www.isxgames.com) in the [Eve Online](https://www.eveonline.com/) Client
 
